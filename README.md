@@ -7,5 +7,5 @@ Sprint 0 exercises
 https://github.com/miriamsanc/Sprint-0.git
 
 ## Cloning the repository
-![Snapshot](Sprint-0/Capture.png)
+![Snapshot](Capture.png)
 
